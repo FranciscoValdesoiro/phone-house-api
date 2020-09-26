@@ -1,5 +1,5 @@
 # Phone House Api
-This is a simple api with one endpoint `/phones` to serve a phone list for the Phones House Catalog.
+This is a simple api with one endpoint `/phones` to serve a phone list for the [Phones House Catalog](https://github.com/FranciscoValdesoiro/phone-house-catalogue).
 
 
 # How to Use?
